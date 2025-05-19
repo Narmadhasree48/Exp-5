@@ -33,3 +33,5 @@ vi)Sequence Diagram
 ![image](https://github.com/user-attachments/assets/8f663296-6088-451f-95cc-efd267e83556)
 
 # RESULT:
+Thus the student registration system project was executed and the output was
+verified
